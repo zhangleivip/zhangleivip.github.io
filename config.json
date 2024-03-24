@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"lei's Blog",
+    "subTitle":"未来可期",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"03/24/2024"
+    "UTC":8,
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
 }
