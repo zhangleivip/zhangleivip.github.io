@@ -1,8 +1,6 @@
-# What is tailwindcss?
-
-## Tailwind CSS is a utility-first CSS framework. Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.
-
-## 一个实用程序优先的 CSS 框架 Tailwind CSS 的工作原理是扫描所有 HTML 文件、JavaScript 组件和任何其他模板的类名，生成相应的样式，然后将它们写入静态 CSS 文件。
+> Tailwind CSS is a utility-first CSS framework. Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.
+>
+> 一个实用程序优先的 CSS 框架 Tailwind CSS 的工作原理是扫描所有 HTML 文件、JavaScript 组件和任何其他模板的类名，生成相应的样式，然后将它们写入静态 CSS 文件。
 
 # Documentation
 
@@ -61,3 +59,6 @@
    > 带有 defer 属性的脚本将阻止 DOMContentLoaded 事件触发，直到脚本加载并完成评估。
    > 如果没有 src 属性（即内联脚本），则不得使用此属性，否则将没有任何效果。
    > 要使动态插入的脚本达到类似效果，请使用 async="false" 代替。带有 defer 属性的脚本将按照它们在文档中出现的顺序执行。
+
+6. [Adding Custom Styles](https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values)
+7. [Reusing Styles&重用样式](https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply)
